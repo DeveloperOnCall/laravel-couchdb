@@ -9,10 +9,10 @@
   ],
   "license" : "MIT",
   "require": {
-    "illuminate/database": "5.4.*",
-    "illuminate/support": "5.4.*",
-    "illuminate/container": "5.4.*",
-    "illuminate/events": "5.4.*",
+    "illuminate/database": "5.7.*",
+    "illuminate/support": "5.7.*",
+    "illuminate/container": "5.7.*",
+    "illuminate/events": "5.7.*",
     "doctrine/couchdb": "^2.0.0-alpha1",
     "adbario/php-dot-notation": "^1.2"
   },
